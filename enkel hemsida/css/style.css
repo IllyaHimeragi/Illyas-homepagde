@@ -1,0 +1,26 @@
+.Animecard{
+	color: darkred;
+	font-family: Verdana;
+	text-decoration: none;
+}
+.Animetext{
+	color: black;
+	font-family: Verdana;
+	margin: 5px;
+	background-color: darkgrey;
+}
+
+.flow{
+	float: left;
+}
+.Anime{
+	color: darkblue;
+	font-family: Verdana;
+	margin: 10px;
+	margin-left: 20px;
+}
+.chan{
+	font-family: Verdana;
+	margin: 5px;
+	color: darkblue;
+}
